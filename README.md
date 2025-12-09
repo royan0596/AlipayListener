@@ -23,7 +23,9 @@
 
 ## 📱 使用截图
 
-*(在此处添加你的 App 截图，例如首页监控界面和关于页面)*
+<div align="center">
+  <img src="screenshots/home.jpg" width="300" alt="App首页截图" />
+</div>
 
 ## 🚀 快速开始
 
