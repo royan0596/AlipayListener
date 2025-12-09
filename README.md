@@ -24,7 +24,7 @@
 ## 📱 使用截图
 
 <div align="center">
-  <img src="screenshots/home.jpg" width="300" alt="App首页截图" />
+  <img src="android/screenshots/home.jpg" width="300" alt="App首页截图" />
 </div>
 
 ## 🚀 快速开始
